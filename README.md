@@ -36,6 +36,7 @@ Analyzed Google Play Store app data to explore app categories, ratings, installs
 
 ## Repository Structure
 
+```text
 Oasis-Infobyte-Data-Analytics-Internship/
 │
 ├── Datasets/
@@ -51,3 +52,4 @@ Oasis-Infobyte-Data-Analytics-Internship/
 ├── Project-5-Google-Play-Store-Analysis/
 │
 └── README.md
+```
