@@ -15,3 +15,7 @@
 - Raw Google Play Store Dataset: Includes app details such as category, rating, installs, reviews, size, and pricing information.
 
 - Cleaned Google Play Store Dataset: Processed Play Store dataset after removing null values, duplicates, and cleaning columns.
+
+- Raw Twitter Sentiment Dataset: Contains Twitter text data with positive, negative, and neutral sentiment labels.
+
+- Cleaned Twitter Sentiment Dataset: Processed Twitter dataset after removing missing values, duplicate records, and improving data quality.
